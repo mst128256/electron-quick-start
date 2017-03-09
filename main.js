@@ -19,10 +19,10 @@ const template = [
     ]
   },
   {
-    role: 'abc'
+    role: 'menuEdit'
   },
   {
-    role: 'def'
+    role: 'menuWindow'
   }
 ]
 const menu = Menu.buildFromTemplate(template)
